@@ -1,5 +1,5 @@
-@import url('https://fonts.google.com/specimen/Young+Serif');
-@import url('https://fonts.google.com/specimen/Outfit');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 /* The designs were created to the following widths:
 
@@ -27,8 +27,14 @@ img {
     max-width: 100%;
 }
 
+h1 {
+    font-family: "Young-Serif", sans-serif;
+    font-weight: 400;
+}
+
 body {
     font-size: 16px;
+    font-family: "Outfit";
 }
 
 .attribution { 
